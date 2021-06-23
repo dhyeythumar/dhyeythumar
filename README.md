@@ -15,23 +15,21 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dhyey Thumar!</h1>
 -->
 
-<p align="center">Some of the Extra Pins</p>
-
 <p align="center"> 
-  <a style="margin-bottom: 12px" href="https://github.com/dhyeythumar/mlagents-video-streamer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=mlagents-video-streamer" width = 420/>
-  </a>
   <a style="margin-bottom: 12px" href="https://github.com/dhyeythumar/gym-video-streamer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=gym-video-streamer" width = 420/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=gym-video-streamer" width = 360/>
+  </a>
+  <a style="margin-bottom: 12px" href="https://github.com/dhyeythumar/mlagents-video-streamer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=mlagents-video-streamer" width = 360/>
   </a>
 </p>
 
 <p align="center"> 
   <a href="https://github.com/dhyeythumar/awesome-readme-tools">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=awesome-readme-tools" width = 420/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=awesome-readme-tools" width = 360/>
   </a>
   <a href="https://github.com/dhyeythumar/BoatAttack-with-ML-Agents">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=BoatAttack-with-ML-Agents" width = 420/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=BoatAttack-with-ML-Agents" width = 360/>
   </a>
 </p>
 <!--
