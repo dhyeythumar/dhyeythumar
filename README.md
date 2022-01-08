@@ -33,8 +33,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/dhyeythumar/BoatAttack-with-ML-Agents">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=BoatAttack-with-ML-Agents" width = 360 />
   </a>
@@ -47,8 +46,13 @@ Here are some ideas to get you started:
 <details>
 <summary>Extra Pins</summary>
 <br>
+<p align="center"> 
+  <a href="https://github.com/dhyeythumar/github-notifier-for-whatsapp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=github-notifier-for-whatsapp" />
+  </a>
   <a href="https://github.com/dhyeythumar/cv2module">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=cv2module" />
   </a>
+</p>
 </details>
 -->
