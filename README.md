@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  <a href="https://github.com/dhyeythumar/graphql-proxy-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=graphql-proxy-api" width = 360 />
-  </a>
-  <a href="https://github.com/dhyeythumar/how-to-GraphQL-js">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=how-to-GraphQL-js" width = 360 />
-  </a>
-</p>
-
-<p align="center"> 
   <a href="https://github.com/dhyeythumar/gym-video-streamer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=gym-video-streamer" width = 360 />
   </a>
@@ -39,6 +30,15 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/dhyeythumar/awesome-readme-tools">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=awesome-readme-tools" width = 360 />
+  </a>
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/dhyeythumar/graphql-proxy-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=graphql-proxy-api" width = 360 />
+  </a>
+  <a href="https://github.com/dhyeythumar/how-to-GraphQL-js">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhyeythumar&repo=how-to-GraphQL-js" width = 360 />
   </a>
 </p>
 
